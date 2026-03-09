@@ -4,6 +4,9 @@ As the title suggest this standard layout is laser focused on addressing the inf
 
 TL;DR: jump to the [getting started](#getting-started-with-this-repo) section.
 
+Here is a visual to show the conceptual relationships around how this GitOps configuration works.
+![Overall](.docs/media/GitOps-visual.jpg "Overall")
+
 ## Repo Structure
 
 These are the main folders:
